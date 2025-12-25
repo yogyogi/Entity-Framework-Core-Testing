@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\tests\\newscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\tests\\newscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\tests\\sqliteinmemorynewscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\tests\\sqliteinmemorynewscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\tests\\inmemorynewscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\tests\\inmemorynewscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\tests\\repositorynewscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\tests\\repositorynewscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\models\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\models\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\models\\newscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\models\\newscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\models\\testdatabasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\models\\testdatabasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,106 +78,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "EFCoreTesting\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "EFCoreTesting\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T12:35:17.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InMemoryNewsControllerTest.cs",
-              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\InMemoryNewsControllerTest.cs",
-              "RelativeDocumentMoniker": "EFCoreTesting\\Tests\\InMemoryNewsControllerTest.cs",
-              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\InMemoryNewsControllerTest.cs",
-              "RelativeToolTip": "EFCoreTesting\\Tests\\InMemoryNewsControllerTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:55:54.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SqliteInMemoryNewsControllerTest.cs",
-              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\SqliteInMemoryNewsControllerTest.cs",
-              "RelativeDocumentMoniker": "EFCoreTesting\\Tests\\SqliteInMemoryNewsControllerTest.cs",
-              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\SqliteInMemoryNewsControllerTest.cs",
-              "RelativeToolTip": "EFCoreTesting\\Tests\\SqliteInMemoryNewsControllerTest.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwDIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:38:36.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RepositoryNewsControllerTest.cs",
-              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\RepositoryNewsControllerTest.cs",
-              "RelativeDocumentMoniker": "EFCoreTesting\\Tests\\RepositoryNewsControllerTest.cs",
-              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\RepositoryNewsControllerTest.cs",
-              "RelativeToolTip": "EFCoreTesting\\Tests\\RepositoryNewsControllerTest.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFYAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:14:01.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TestDatabaseFixture.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Models\\TestDatabaseFixture.cs",
+              "RelativeDocumentMoniker": "EFCoreTesting\\Models\\TestDatabaseFixture.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Models\\TestDatabaseFixture.cs",
+              "RelativeToolTip": "EFCoreTesting\\Models\\TestDatabaseFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:25:18.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "NewsControllerTest.cs",
               "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\NewsControllerTest.cs",
               "RelativeDocumentMoniker": "EFCoreTesting\\Tests\\NewsControllerTest.cs",
               "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\NewsControllerTest.cs",
               "RelativeToolTip": "EFCoreTesting\\Tests\\NewsControllerTest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T15:12:12.848Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NewsController.cs",
-              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Controllers\\NewsController.cs",
-              "RelativeDocumentMoniker": "EFCoreTesting\\Controllers\\NewsController.cs",
-              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Controllers\\NewsController.cs",
-              "RelativeToolTip": "EFCoreTesting\\Controllers\\NewsController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA1wCwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T15:02:03.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "INewsRepository.cs",
-              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Models\\INewsRepository.cs",
-              "RelativeDocumentMoniker": "EFCoreTesting\\Models\\INewsRepository.cs",
-              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Models\\INewsRepository.cs",
-              "RelativeToolTip": "EFCoreTesting\\Models\\INewsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T10:49:43.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NewsContext.cs",
-              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Models\\NewsContext.cs",
-              "RelativeDocumentMoniker": "EFCoreTesting\\Models\\NewsContext.cs",
-              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Models\\NewsContext.cs",
-              "RelativeToolTip": "EFCoreTesting\\Models\\NewsContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T12:19:03.058Z"
             }
           ]
         }

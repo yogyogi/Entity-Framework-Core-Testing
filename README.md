@@ -1,6 +1,6 @@
 # Entity Framework Core Testing
 
-<img src="https://www.yogihosting.com/wp-content/uploads/2025/12/EFCore-Interceptors.png" alt="Entity Framework Core Interceptors"  title="Entity Framework Core Interceptors">
+<img src="https://www.yogihosting.com/wp-content/uploads/2025/12/EFCore-testing.png" alt="Entity Framework Core Testing"  title="Entity Framework Core Testing">
 
 Learn all about how to perform testing in Entity Framework Core. Tutorial <a href="https://www.yogihosting.com/testing-entity-framework-core/" target="_blank">link</a>.
 

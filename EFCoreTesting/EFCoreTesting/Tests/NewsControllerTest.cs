@@ -4,6 +4,7 @@ using Xunit;
 
 namespace EFCoreTesting.Tests
 {
+    [Collection("TransactionalTests")]
     public class NewsControllerTest : IClassFixture<TestDatabaseFixture>
     {
         public NewsControllerTest(TestDatabaseFixture fixture)

@@ -37,7 +37,7 @@ namespace EFCoreTesting.Tests
     }
 
     [CollectionDefinition("TransactionalTests")]
-    public class TransactionalTestsCollection : ICollectionFixture<TransactionalTestDatabaseFixture>
+    public class TransactionalTestsCollection : ICollectionFixture<TransactionalTestDatabaseFixture>, ICollectionFixture<TestDatabaseFixture>
     {
     }
 }

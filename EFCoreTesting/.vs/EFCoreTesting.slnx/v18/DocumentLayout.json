@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\models\\testdatabasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\models\\testdatabasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\tests\\transactionaltestdatabasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\tests\\transactionaltestdatabasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\tests\\transactionalnewscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\tests\\transactionalnewscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\models\\testdatabasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|solutionrelative:efcoretesting\\models\\testdatabasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A55E8F3E-89FF-5512-1407-74EB2697DEFE}|EFCoreTesting\\EFCoreTesting.csproj|d:\\yogesh\\seo\\yogihosting\\new\\ef core testing\\efcoretesting\\efcoretesting\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,52 +90,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TransactionalNewsControllerTest.cs",
               "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\TransactionalNewsControllerTest.cs",
               "RelativeDocumentMoniker": "EFCoreTesting\\Tests\\TransactionalNewsControllerTest.cs",
               "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\TransactionalNewsControllerTest.cs",
               "RelativeToolTip": "EFCoreTesting\\Tests\\TransactionalNewsControllerTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T05:27:30.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TransactionalTestDatabaseFixture.cs",
               "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\TransactionalTestDatabaseFixture.cs",
               "RelativeDocumentMoniker": "EFCoreTesting\\Tests\\TransactionalTestDatabaseFixture.cs",
               "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\TransactionalTestDatabaseFixture.cs",
               "RelativeToolTip": "EFCoreTesting\\Tests\\TransactionalTestDatabaseFixture.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T05:27:14.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "NewsControllerTest.cs",
               "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\NewsControllerTest.cs",
               "RelativeDocumentMoniker": "EFCoreTesting\\Tests\\NewsControllerTest.cs",
               "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Tests\\NewsControllerTest.cs",
               "RelativeToolTip": "EFCoreTesting\\Tests\\NewsControllerTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T15:12:12.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TestDatabaseFixture.cs",
               "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Models\\TestDatabaseFixture.cs",
               "RelativeDocumentMoniker": "EFCoreTesting\\Models\\TestDatabaseFixture.cs",
               "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Models\\TestDatabaseFixture.cs",
               "RelativeToolTip": "EFCoreTesting\\Models\\TestDatabaseFixture.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T05:25:18.315Z",
               "EditorCaption": ""
@@ -148,7 +148,7 @@
               "RelativeDocumentMoniker": "EFCoreTesting\\Controllers\\NewsController.cs",
               "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\EF Core Testing\\EFCoreTesting\\EFCoreTesting\\Controllers\\NewsController.cs",
               "RelativeToolTip": "EFCoreTesting\\Controllers\\NewsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T05:28:52.696Z",
               "EditorCaption": ""
